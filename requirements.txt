@@ -1,0 +1,9 @@
+duckdb
+catboost
+numpy<=1.26.4
+pandas
+matplotlib
+scipy
+pyarrow
+fastparquet
+scikit-learn

@@ -1,0 +1,27 @@
+{
+    "monthly_investigative_capacity": 120,
+    "average_fraud_count": 21.384615384615383,
+    "average_txn_count": 2737.3846153846152,
+    "month_list": [
+        "2017_5",
+        "2017_9",
+        "2017_4",
+        "2017_3",
+        "2017_6",
+        "2017_12",
+        "2017_1",
+        "2017_11",
+        "2017_2",
+        "2017_8",
+        "2018_1",
+        "2017_10",
+        "2017_7"
+    ],
+    "full_txns_amount": 1917866.98,
+    "full_fraud": 45408.450000000004,
+    "fraud_loss": 19282.539999999997,
+    "baseline_fraud_loss": 43204.84519999999,
+    "prevented_fraud_loss": 26125.910000000007,
+    "baseline_prevented_fraud_loss": 2203.6048000000155,
+    "relative_prevented_loss": 11.855987062652897
+}
